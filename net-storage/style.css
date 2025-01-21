@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Oswald:wght@200..700&display=swap');
+*{
+    font-family: "Exo 2", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+h1{
+    text-align: center;
+    font-weight: 800;
+    font-size: 20;
+}
+body{
+    background-color: #F7F7FF;
+}
+main{
+    width: 768px;
+    margin: auto;
+}
+.category{
+    color: white;
+    border-radius: 16px;
+}
+.cb1{
+    background-color: rgb(53, 127, 40);
+    margin: 8px;
+    padding: 10px;
+    height: 60px;
+    font-weight: 700;
+    border-radius: 16px;
+
+}
+.cb2{
+    background-color: rgb(212, 87, 87);
+    margin: 8px;
+    padding: 10px;
+    height: 60px;
+    font-weight: 700;
+    border-radius: 16px;
+}
+.cb3{
+    background-color: rgb(82, 82, 228);
+    margin: 8px;
+    padding: 10px;
+    height: 60px;
+    font-weight: 700;
+    border-radius: 16px;
+}
+.cb4{
+    background-color: rgb(203, 72, 203);
+    margin: 8px;
+    padding: 10px;
+    height: 60px;
+    font-weight: 700;
+    border-radius: 16px;
+}
+.num{
+    font-weight: 100;
+}
+.arhive{
+    font-weight: 700;
+    height: 128px;
+    text-align: center;
+    padding: 99px;
+    background-color: rgba(229, 229, 229, 0.655);
+    margin: auto;
+    border-radius: 16px;
+    border: 2px dashed #222;
+}
+footer{
+    text-align: center;
+    font-weight: 700;
+    margin: 12px;
+    font-size: 20px;
+}
+
+.cb11{
+    background-color: rgb(255, 255, 255);
+    border: 2px solid #222;
+    margin: 20px;
+    padding: 20px;
+    height: 60px;
+    font-weight: 500;
+    border-radius: 16px;
+}
+td{
+    text-align: center;
+}
+.files{
+    color: #222;
+}
+.huge{
+    width: 310px;
+    text-align: left;
+}
+.av{
+    width: 170px;
+}
+.sm{
+    width: 150px;
+}

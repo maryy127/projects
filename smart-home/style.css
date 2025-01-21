@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Exo+2:ital,wght@0,100..900;1,100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Oswald:wght@200..700&display=swap');
+body{
+    font-family: "Comfortaa", sans-serif;
+    background-color: rgb(233, 231, 208);
+    color: #10100f;
+    width: 1024px;
+    padding: 16px;
+    margin: 16px auto;
+}
+*{
+    scroll-behavior: smooth;
+}
+.imi{
+    width: 100px;
+}
+header{
+    font-size: 30px;
+    font-weight: 500;
+    padding: 16px;
+    margin: 16px auto;
+    flex-wrap: nowrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 900px;
+    background-color: aliceblue;
+    border-radius: 16px;
+}
+main{
+    width: 900px; 
+    margin: 16px auto; 
+}
+.first{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    width: 900px;
+    background-color: rgb(238, 244, 213);
+    border-radius: 16px;
+}
+.box{
+    box-sizing: border-box;
+    background-color: azure;
+    border-radius: 16px;
+    padding: 16px;
+    margin: 16px;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.up{
+    text-align: center;
+    color: rgb(92, 92, 218);
+    font-weight: 600;
+    font-size: 20px;
+}
+.down{
+    text-align: center;
+    color: rgb(47, 47, 62);
+    font-weight: 400;
+    font-size: 17px;
+}
+.hah{
+    text-align: start;
+    color: rgb(47, 47, 62);
+    font-weight: 600;
+    font-size: 23px;
+    margin: 24px;
+}
+
+.icon{
+    width: 70px;
+    height: 70px;
+    background-image: url(smarthome/icons.png);
+    background-size: 550%;
+    margin: 6px;
+}
+.ri{
+    height: 500px;
+    display: flex;
+    flex-wrap: nowrap;
+}
+.w1{
+    background-position: 93% 1%;
+}
+.w2{
+    background-position: 3% 90%;
+}
+.w3{
+    background-position: 48% 90%;
+}
+.w4{
+    background-position: 3% 1%;
+}
+.w5{
+    background-position: 48% 1%;
+}
+.w6{
+    background-position: 93% 90%;
+}
+.second{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    width: 900px;
+}
+.box2{
+    box-sizing: border-box;
+    background-color: azure;
+    border-radius: 16px;
+    padding: 16px;
+    margin: 20px;
+    width: 270px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+footer{
+    text-align: center;
+    color: rgb(185, 185, 185);
+}
+.rii{
+    height: 300px;
+}
+.ord{
+    text-align: center;
+    color: rgb(124, 124, 133);
+    font-weight: 300;
+    font-size: 20px;
+}
+.blue{
+    text-align: center;
+    color: rgb(92, 92, 218);
+    font-weight: 300;
+    font-size: 20px;
+}
+.devic{
+    width: 700px;
+    display: flex;
+    justify-content: space-between;
+}
+footer{
+    font-size: 20px;
+    font-weight: 500;
+    color: azure;
+    text-align: center;
+}
+nav{
+    font-size: 20px;
+    font-weight: 500;
+    color: rgb(198, 227, 227);
+}

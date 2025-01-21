@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Oswald:wght@200..700&display=swap');
+body{
+    background-color: #61B7CF;
+    color: #025167;
+    font-family: "Oswald", serif;
+}
+main{
+    background-color: aliceblue;
+    width: 1024px;
+    padding: 16px;
+    margin: 16px auto;
+    border-radius: 16px;
+}
+.cage{
+    width: 23%;
+    height: 210px;
+    background-color: azure;
+    border-radius: 16px;
+    text-align: center;
+    justify-items: auto;
+}
+.mid-cage{
+    width: 29%;
+    height: 280px;
+    background-color: azure;
+    border-radius: 16px;
+    text-align: center;
+    justify-items: auto;
+}
+.big-cage{
+    width: 43%;
+    height: 500px;
+    background-color: azure;
+    border-radius: 16px;
+    text-align: center;
+    justify-items: auto;
+}
+header{
+    font-size: 30px;
+    background-color: aliceblue;
+    padding: 16px;
+    margin: 16px auto;
+    border-radius: 16px;
+    flex-wrap: nowrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1024px;
+}
+.li{
+    width: 100px;
+}
+.av{
+    width: 150px;
+}
+.av-2{
+    width: 200px;
+}
+.big{
+    width: 400px;
+}
+.container1{
+    width: 90%;
+    background-color: beige;
+    height: 230px;
+    padding: 20px;
+    margin: 16px auto;
+    border-radius: 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.container2{
+    width: 90%;
+    background-color: beige;
+    height: 300px;
+    padding: 20px;
+    margin: 16px auto;
+    border-radius: 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.container3{
+    width: 90%;
+    background-color: beige;
+    height: 550px;
+    padding: 20px;
+    margin: 16px auto;
+    border-radius: 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+footer{
+    font-size: 20px;
+    background-color: aliceblue;
+    padding: 16px;
+    margin: 16px auto;
+    border-radius: 16px;
+    flex-wrap: nowrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1024px;
+}
+.red{
+    color: red;
+}

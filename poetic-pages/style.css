@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Comfortaa:wght@300..700&family=Exo+2:ital,wght@0,100..900;1,100..900&family=Neucha&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Oswald:wght@200..700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Comfortaa:wght@300..700&family=Exo+2:ital,wght@0,100..900;1,100..900&family=Neucha&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Oswald:wght@200..700&display=swap');
+
+body {
+    margin: auto;
+    display: flex;
+    background-color: #F3EFE5;
+    flex-direction: column;
+    align-items: center;
+    font-family: "Neucha", cursive; 
+}
+.container{
+    padding: 30px;
+    margin: 30px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1{
+    color: #C1694F;
+    text-align: center;
+}
+.logo{
+    width: 30%;
+    margin: 20px auto;
+    display: block;
+}
+.sbornik{
+    font-family: "Bad Script", cursive;
+    text-align: center;
+}
+.btn{
+    width: 40%;
+    margin: auto;
+    padding: 5px;
+    border-radius: 13px;
+    background-color: #e4724f;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.ho{
+    color: aliceblue;
+    text-decoration: none;
+}
+.middle{
+    justify-content: center;
+}
+.cont{
+    background-color: #eee6cfaf;
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    text-align: center;
+    margin: 20px auto;
+    padding: 13px;
+    border-radius: 20px;
+}
+.stih{
+    color: #C1694F;
+    font-size: 30px;
+    font-family: "Bad Script", cursive;
+}
+.text{
+    color: black;
+}
+footer{
+    text-align: center;
+    color: rgb(212, 201, 201);
+    margin: 12px auto;
+}
+.back{
+    color: rgb(209, 123, 123);
+    text-align: end;
+    font-size: 23px;
+}
+.end{
+    text-align: end;
+}

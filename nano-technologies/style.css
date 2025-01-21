@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Aladin&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+main {
+	width: 600px;
+	margin: 1em auto;
+	border: 1px solid #c5ac3f;
+	border-radius: 1em;
+	padding: 1em;
+}
+
+.card {
+	border-radius: 1em;
+	padding: 1em;
+	margin-bottom: 1em;
+}
+
+
+h1{
+  font-family: "Aladin", system-ui;
+  font-size: 64px;
+  text-align: center;
+  color: #c5ac3f;
+}
+
+body{
+  background-color: #f8f4e3
+}
+
+article{
+  font-family: "Raleway", sans-serif;
+  background-color: white;
+}
+
+.h2-1{
+  color: #78c091;
+  font-size: 25px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.h3-1{
+  color: white;
+  text-align: center;
+  background-color: #78c091;
+}
+
+.black{
+  font-weight: bold;
+}
+
+.italic{
+  font-style: italic;
+  font-weight: 100;
+  text-align: center;
+}
+
+.h2-2{
+  color: #c83050;
+  font-size: 25px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.h3-2{
+  color: white;
+  text-align: center;
+  background-color: #c83050;
+}
+
+.h2-3{
+  color: #3071c8;
+  font-size: 25px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.h3-3{
+  color: white;
+  text-align: center;
+  background-color: #3071c8;
+}
+
+footer{
+  color: #c5ac3f;
+  font-family: "Raleway", sans-serif;
+  font-weight: 100;
+  text-align: center;
+}
